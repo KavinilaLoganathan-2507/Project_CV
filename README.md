@@ -14,11 +14,10 @@
 ## Files
 - notebook.ipynb
 - requirements.txt
-- Dockerfile
 - final_model.h5 (or instructions to reproduce training)
 
 Dataset link:
 - Kaggle Dogs vs Cats: https://www.kaggle.com/c/dogs-vs-cats
 - TensorFlow Datasets: `tfds.load('cats_vs_dogs')`
 
-Project requirements reference: see uploaded spec. :contentReference[oaicite:2]{index=2}
+
