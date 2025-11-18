@@ -6,7 +6,7 @@
 2. Prepare dataset:
    - Option A: Use TensorFlow Datasets `cats_vs_dogs` (automatically downloaded in notebook).
    - Option B: Download Kaggle "Dogs vs Cats" dataset and unzip into `data/train`.
-3. Run `notebook.ipynb` in Colab or Jupyter. See cells for instructions to copy 5 images into `inference_images/` for inference.
+3. Run `Binary_Classification.ipynb` in Colab or Jupyter. See cells for instructions to copy 5 images into `inference_images/` for inference.
 
 ## Running in Colab
 - Upload notebook, run cells. GPU recommended.
